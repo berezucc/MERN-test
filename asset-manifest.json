@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MERN-test/static/css/main.8d6a17ca.css",
+    "main.js": "/MERN-test/static/js/main.d58cabef.js",
+    "index.html": "/MERN-test/index.html",
+    "main.8d6a17ca.css.map": "/MERN-test/static/css/main.8d6a17ca.css.map",
+    "main.d58cabef.js.map": "/MERN-test/static/js/main.d58cabef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d6a17ca.css",
+    "static/js/main.d58cabef.js"
+  ]
+}
